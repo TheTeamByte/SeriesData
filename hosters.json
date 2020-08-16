@@ -1,5 +1,5 @@
 {
     "supported": [
-        "gounlimited", "vivo"
+        "gounlimited", "vivo", "upstream"
     ]
 }
